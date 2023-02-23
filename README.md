@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://media.tenor.com/yF2cZxmDRjQAAAAC/glootie-app.gif">
+<img src="https://media.tenor.com/yF2cZxmDRjQAAAAC/glootie-app.gif](https://cdn.eteknix.com/wp-content/uploads/2019/07/2-compressed-9-880x528.jpg">
 <h1 align="center">
 <pre>Valentina Carpentiero <br>🚢<img src="https://i.ibb.co/WpqT3bM/icons8-microsoft-48-1.png" alt="icons8-microsoft-48-1" border="0"> <br>MSC Technologies back-end developer student <br><a href="https://linkedin.com/in/valentina-carpentiero"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a><a href="https://discord.gg/ValentinaC#4359"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>  
 </h1></pre>  
